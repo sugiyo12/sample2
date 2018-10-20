@@ -1,0 +1,132 @@
+
+.container{
+    width:1010px;
+    margin: 0 auto;
+}
+
+header{
+    background-color: black;
+    height:170px;
+    width:1010px;
+    margin:0 auto;
+}
+
+.header-left{
+    float:left;
+    padding:40px 0 0 50px;
+}
+
+.header-right{
+    float:right;
+    text-align: right;
+    padding-right:25px;
+}
+
+.header-right img{
+    margin-top:15px;
+}
+
+.header-right p{
+    color:white;
+    font-family:HGP明朝B;
+    font-size:20px;
+    letter-spacing: :4px;
+    text-shadow: 2px 2px 28px white;
+}
+
+.fas{
+    margin-right: 10px;
+}
+
+.global-menu{
+    height:100px;
+    width:1010px;
+    margin:0 auto;
+    background-color: black;
+    z-index:10;
+}
+
+.menu{
+    float:left;
+}
+
+.menu:hover{
+    opacity:0.7;
+    border-top:2px dashed white;
+    border-bottom:2px dashed white;
+}
+
+.mian-design{
+    background-color: black;
+    height:780px;
+    width:1010px;
+    margin:0 auto;
+}
+.main-design img{
+    margin-top:100px;
+}
+
+.first-wrapper{
+    height:780px;
+    width:1010px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.first-left{
+    float:left;
+    margin-right: 70px;
+}
+
+
+.first-right{
+    float:right;
+}
+
+.second-wrapper{
+    height:370px;
+    width:1010px;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.footer{
+    height:250px;
+    width:1010px;
+    margin: 0 auto;
+    background-color: black;
+    font-family:HGP明朝B;
+    color:white;
+}
+
+.footer-left{
+    float:left;
+    padding-left:50px;
+}
+
+.footer-left h1{
+    text-shadow: 1px 1px 3px white;
+    margin-bottom:30px;
+}
+
+.footer p{
+    font-size:20px;
+    text-shadow: 1px 1px 3px white;
+}
+
+
+.footer-right{
+    float:right;
+    margin:30px 60px 0 0;
+    padding:0 15px 0 40px;
+    border:3px double white;
+    border-radius:10px;
+    box-shadow:5px 8px 10px white;
+    text-align: center;
+    
+}
+
+.footer-right span{
+    color:red;
+}
+
